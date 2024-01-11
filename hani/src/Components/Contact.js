@@ -3,7 +3,7 @@
 import React from 'react'
 import { Menu, X, MapPin, Phone, Mails } from 'lucide-react'
 import { Link, useNavigate } from 'react-router-dom';
-import logo from '../Imgs/HaniEnterprises.png'
+import logo from '../Imgs/logo-black-png.png'
 
 
 
