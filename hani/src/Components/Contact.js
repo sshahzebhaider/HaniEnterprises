@@ -121,7 +121,7 @@ export default function Contact() {
                         <MapPin className="h-5 w-5" />
                         <p className="w-full text-xl font-semibold  text-gray-900">Our Location</p>
                         <p className="text-sm font-medium">
-                            C-43, Full Basement, Gulistan Cooperative Housing Society, Sector No. 19-A, Scheme 33, Karachi
+                            House No. 54, near Mukka Chowk, Block 9, Federal B Area, Karachi
                         </p>
                     </div>
 
