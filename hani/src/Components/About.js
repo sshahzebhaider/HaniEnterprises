@@ -17,7 +17,7 @@ const locations = [
 
 const users = [
   {
-    name: 'Hani Zaidi',
+    name: 'Syed Zuhair Hussain Zaidi',
     image:
       hani ,
     position: 'CEO',
