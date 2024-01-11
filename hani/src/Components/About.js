@@ -10,7 +10,7 @@ const locations = [
   {
     title: 'Our Location',
     timings: 'Mon-Sat 9am to 5pm.',
-    address: 'C-43, Full Basement, Gulistan Cooperative Housing Society, Sector No. 19-A, Scheme 33, Karachi',
+    address: 'House No. 54, near Mukka Chowk, Block 9, Federal B Area, Karachi',
   },
 
 ]
