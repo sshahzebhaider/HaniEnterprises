@@ -4,7 +4,7 @@ import React from 'react'
 import { Menu, X, MapPin, Phone } from 'lucide-react'
 import { Link, useNavigate } from 'react-router-dom';
 import hani from '../Imgs/FB_IMG_1704935589268.jpg'
-import logo from '../Imgs/HaniEnterprises.png'
+import logo from '../Imgs/logo-black-png.png'
 
 const locations = [
   {
