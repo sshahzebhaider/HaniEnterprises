@@ -162,7 +162,7 @@ export function AboutPageOne() {
           Warm regards,
         </p>
         <p className="text-xl text-black">
-          Hani Zaidi
+          Syed Zuhair Hussain Zaidi
         </p>
 
         <p className="text-xl text-black">
