@@ -3,7 +3,7 @@
 import React from 'react'
 import { DollarSign, Filter, Menu, Moon, Star, X, Smile, ShieldCheck, PackageCheck } from 'lucide-react'
 import { Link, useNavigate } from 'react-router-dom';
-import logo from '../Imgs/HaniEnterprises.png'
+import logo from '../Imgs/logo-black-png.png'
 
 
 export default function Testimonials() {
